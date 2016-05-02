@@ -1,7 +1,7 @@
 name: senfonico
 favicon: null
-layout_spectrum: 0.9767421749420464
-typography_spectrum: 0.5629282023292035
+layout_spectrum: 0.2579
+typography_spectrum: 0.46419
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.8469574723858386
+  brandStrength: 1
   lightness: 0.741720023099333
   saturation: 0.34504548856057227
-  rhythmicContrast: 0.12630290258675814
+  rhythmicContrast: 0
 purpose: []
