@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[senfonico]]></title>
         <description><![CDATA[senfonico]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/senfonico/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 13:36:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 14:47:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/senfonico/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/884db52f-2691-4aae-b3cf-60cdadfda296.jpg">]]></description>
+            <link>https://thegrid.ai/senfonico/merarica-brand-website-development/index.html</link>
+            <guid isPermaLink="false">cbf5faea-2294-4a1a-9163-24b07bf2d7b8</guid>
+            <pubDate>Wed, 18 May 2016 14:46:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Maid In Love chose Senfonico to create a website that reflects its artistic vision without compromising performance, functionality and accessibility.</p>]]></description>
-            <link>undefinedmaid-in-love-chose-senfonico-to-create-a-website-that-reflec/index.html</link>
+            <link>https://thegrid.ai/senfonico/maid-in-love-chose-senfonico-to-create-a-website-that-reflec/index.html</link>
             <guid isPermaLink="false">fdb20a3e-0d12-45f3-a51f-e7a74d2ecac4</guid>
             <pubDate>Mon, 02 May 2016 13:36:18 GMT</pubDate>
         </item>
